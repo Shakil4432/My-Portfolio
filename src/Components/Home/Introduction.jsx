@@ -35,7 +35,7 @@ const Introduction = () => {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-3xl lg:text-5xl font-bold mt-4 text-blue-600"
         >
-          Md Shakil Hossain
+          Md: Shakil Hossain
         </motion.h1>
         <motion.p
           initial={{ y: 20, opacity: 0 }}
